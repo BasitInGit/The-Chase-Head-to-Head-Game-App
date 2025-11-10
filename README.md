@@ -1,9 +1,18 @@
-### **Game Show Mobile App (Swift)**
-   - **Description:** Developed a mobile app for the game show "Chase" using Swift and Xcode, replicating the gameplay mechanics and user experience.
+# The Chase: Head-to-Head Game App
+   - **Description:** A Swift UIKit-based mobile game inspired by the ITV Quiz Show The Chase, implementing the Head-to-Head round.
    - **Technologies Used:** Swift, Xcode
    - **Key Features:**
-     - Includes game logic, questions, answers, and timers.
-     - Designed with a user-friendly interface for mobile devices.
+     - 7-step ladder gameplay
+
+- Multiple-choice questions loaded from JSON
+
+- AI Chaser with 75% accuracy
+
+- 15-second timer per question
+
+- Persistent high scores
+
+- Smooth UI using UIKit and Storyboard
    - **How to Use:**
      1. Clone this repository.
      2. Open the project in Xcode.
