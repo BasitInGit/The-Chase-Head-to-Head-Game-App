@@ -2,7 +2,7 @@
 Description: A Swift UIKit-based mobile game inspired by the ITV Quiz Show The Chase, implementing the Head-to-Head round.
    - **Technologies Used:** Swift, Xcode
 ## Features
-     - 7-step ladder gameplay
+- 7-step ladder gameplay
 
 - Multiple-choice questions loaded from JSON
 
@@ -13,6 +13,7 @@ Description: A Swift UIKit-based mobile game inspired by the ITV Quiz Show The C
 - Persistent high scores
 
 - Smooth UI using UIKit and Storyboard
+  
    - **How to Use:**
      1. Clone this repository.
      2. Open the project in Xcode.
