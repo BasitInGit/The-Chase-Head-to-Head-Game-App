@@ -1,7 +1,7 @@
 # The Chase: Head-to-Head Game App
-   - **Description:** A Swift UIKit-based mobile game inspired by the ITV Quiz Show The Chase, implementing the Head-to-Head round.
+Description: A Swift UIKit-based mobile game inspired by the ITV Quiz Show The Chase, implementing the Head-to-Head round.
    - **Technologies Used:** Swift, Xcode
-   - **Key Features:**
+## Features
      - 7-step ladder gameplay
 
 - Multiple-choice questions loaded from JSON
