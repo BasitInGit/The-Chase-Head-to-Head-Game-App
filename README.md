@@ -14,7 +14,7 @@ Description: A Swift UIKit-based mobile game inspired by the ITV Quiz Show The C
 
 - Smooth UI using UIKit and Storyboard
   
-   - **How to Use:**
+## How to Use
      1. Clone this repository.
      2. Open the project in Xcode.
      3. Run the app on a simulator or device to play the game.
